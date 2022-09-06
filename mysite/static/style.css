@@ -1,0 +1,11 @@
+.button {
+    cursor: pointer
+}
+
+.button:hover {
+    color: blue
+}
+
+#dynamic-div {
+    border: solid 1px blue;
+}
